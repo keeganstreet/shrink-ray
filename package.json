@@ -66,6 +66,14 @@
     "iltorb": "^2.0.0",
     "node-zopfli-es": "^1.0.3"
   },
+  "peerDependenciesMeta": {
+    "iltorb": {
+      "optional": true
+    },
+    "node-zopfli-es": {
+      "optional": true
+    }
+  },
   "engines": {
     "node": ">=8.0"
   },
